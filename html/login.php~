@@ -28,8 +28,7 @@
         }
 
         // else apologize
-        else
-        	redirect("login.php?error=Invalid+mahall+username+or+password.");
+        redirect("login.php?error=Invalid+mahall+username+or+password.");
     }
     else
     {

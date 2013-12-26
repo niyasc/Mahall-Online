@@ -1,4 +1,5 @@
 <?php
+	//Code copied from course offered by harvardx in edx.org
 
     /***********************************************************************
      * functions.php
